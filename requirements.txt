@@ -39,7 +39,8 @@ telegraph
 tgcrypto
 urbandict==0.5
 UsergeAntiSpamApi==0.1.7
+vcsi
 wget
 wikipedia
-youtube_dl>=2021.1.8
+youtube_dl
 youtube-search-python
